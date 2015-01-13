@@ -1,4 +1,4 @@
-package main.mtgService.config;
+package mtgService.config;
 
 import org.springframework.boot.context.embedded.*;
 import org.springframework.stereotype.Component;

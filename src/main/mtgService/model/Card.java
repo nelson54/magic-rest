@@ -1,4 +1,4 @@
-package main.mtgService.model;
+package mtgService.model;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package main.mtgService;
+package mtgService;
 
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
