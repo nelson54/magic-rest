@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 
 @EnableAutoConfiguration
-@ComponentScan("main")
+@ComponentScan("mtgService")
 public class Application {
 
     public static void main(String[] args) throws Exception {
